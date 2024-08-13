@@ -32,13 +32,13 @@ The Weather App is a Flutter-based mobile application that provides real-time we
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/weatherscope.git
+  git clone https://github.com/Ahmed77669/weatherAppFlutterV2.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-  git clone https://github.com/Ahmed77669/weatherscope.git
+  git clone https://github.com/Ahmed77669/weatherAppFlutterV2.git
 ```
 Install dependencies:
 
