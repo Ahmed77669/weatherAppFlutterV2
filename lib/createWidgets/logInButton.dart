@@ -32,6 +32,7 @@ Widget logInButton(
 
           );
         } catch (e) {
+          print('erroe $e');
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(content: Text('login failed. Please try again.')),
           );
