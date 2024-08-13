@@ -1,0 +1,4 @@
+<resources>
+    <!-- Add your other string resources here -->
+    <string name="admob_app_id">YOUR_ADMOB_APP_ID_HERE</string>
+</resources>

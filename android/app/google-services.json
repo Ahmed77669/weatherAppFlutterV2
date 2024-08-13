@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "139525109981",
+    "project_id": "flutterfirst-130c5",
+    "storage_bucket": "flutterfirst-130c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139525109981:android:8bec7f4217923abd758334",
+        "android_client_info": {
+          "package_name": "com.example.weatherappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139525109981-gsu5ei3fgn394nq9mf08bpddp8dqctmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYPxCa86ju9nEFr4Q0i2PL8xgR9HWX5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139525109981-gsu5ei3fgn394nq9mf08bpddp8dqctmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139525109981-34ge2g3umrpuc4n7m1d2pp2h4ql6ng2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139525109981:android:3cc3053a9a920fda758334",
+        "android_client_info": {
+          "package_name": "com.example.weatherproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139525109981-dm8oik8oe60mkinplu3ecqh0hscqubuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherproject",
+            "certificate_hash": "08a1be5619d32ae54f1ea3a95cb4743e939ae9d7"
+          }
+        },
+        {
+          "client_id": "139525109981-gsu5ei3fgn394nq9mf08bpddp8dqctmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYPxCa86ju9nEFr4Q0i2PL8xgR9HWX5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139525109981-gsu5ei3fgn394nq9mf08bpddp8dqctmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139525109981-34ge2g3umrpuc4n7m1d2pp2h4ql6ng2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
